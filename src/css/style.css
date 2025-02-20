@@ -1,0 +1,12 @@
+h1{ 
+    text-align: center;
+    text-decoration: overline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+button{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+
+}
